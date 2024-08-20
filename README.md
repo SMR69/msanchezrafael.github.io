@@ -1,5 +1,6 @@
-Hola, mi nombre es Rafa Sánchez👍🏼
-Freelance Informática & Capacitación laboral
+</h1>Hola, mi nombre es Rafa Sánchez👍🏼</h1>
+
+</h2>Freelance Informática & Capacitación laboral</h2>
 
 Imagen
 
@@ -10,12 +11,12 @@ profesionales y emprendedores a través de cursos y certificaciones laborales de
 <h1>Mis cursos te permitirán adquirir las habilidades necesarias para destacar en el mercado
 laboral y trabajar de forma remota.</h1>
 
-¡Impulsa tu carrera con certificaciones de calidad!"
+</h2>¡Impulsa tu carrera con certificaciones de calidad!"</h2>
 
 Link para ver los diplomas de platzi
 Link para ver los diplomas de ICEMéxico
 
-Encuentrame en:
+</h3>Encuentrame en:</h3>
 Youtube.com
 Twitter
 Linkeid
@@ -24,14 +25,14 @@ Faceboock
 Web
 Github.com
 
-PROYECTOS
+</h3>PROYECTOS</h3>
 
 
 
-ALGUNOS VIDEOS DE YOUTUBE
+</h3>ALGUNOS VIDEOS DE YOUTUBE</h3>
 
 
-CONTACTO
+</h31>CONTACTO</h3>
 MYPUBLICINBOX "MENSAJE + CAFE (respuesta rápida) GRACIAS!
 E-MAIL: Rsanchez@nipyi.com  "E-MAIL PERSONAL (respuesta lenta)
 ☕ Buy me a  coffee 
