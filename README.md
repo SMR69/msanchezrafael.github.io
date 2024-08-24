@@ -28,7 +28,7 @@
         <p class="parrafo">¡Impulsa tu carrera con certificaciones de calidad!"</p>
         <h2 class="subtitulo">Algunos proyectos</h2>
         <ul>
-            <li>Proyecto NIPyi (2023)</li>
+            <li>Proyecto NIPyi (actual)</li>
                 <p> Startup de servicio de Capacitación y Certificaciones de habilidades laborales con reconocimiento oficial</p>
             <li> Proyecto MSD-Soft (2009)</li>
                 <p> Startup de servicio de capacitación para "Desarroladores Web en trabajo remoto"</p>
