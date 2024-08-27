@@ -31,7 +31,7 @@
             <li>Proyecto NIPyi (actual)</li>
                 <p> Startup de servicio de Capacitación y Certificaciones de habilidades laborales con reconocimiento oficial</p>
             <li> Proyecto MSD-Soft (2009)</li>
-                <p> Startup de servicio de capacitación para "Desarroladores Web en trabajo remoto"</p>
+                <p> Startup de servicio de capacitación para "Desarrolladores Web en trabajo remoto"</p>
             <li> Proyecto NIPgi (2008)</li>
                 <p> Startup de servicio de capacitación en Teletrabajo</p>
             <li> Proyecto R@itnet (2001)</li>
@@ -45,13 +45,13 @@
             <li> Buy Me a Coffee</li>
         </ul>
 <!--PIE DE PAGINA-->
-        <!--<footer>
-            </h2 Sigueme en mis redes sociales</h2>
+        <footer>
+            <h2 class="subtitulo">Sigeme en mis redes sociales</h2>
             <ul>
                 <li>Facebook Rsanchez69</li>
                 <li>LinkeId  Rsanchez69</li>
                 <li>X-Twitter @Rsanchez2</li>
             </ul>
-        </footer>-->
+        </footer>
     </body>
 </html>
