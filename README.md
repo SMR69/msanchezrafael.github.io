@@ -18,7 +18,8 @@
                     style="max-width: 100%;"></a> Hola, soy Rafa Sánchez👍🏼
         </h1>
         <h2 class="subtitulo">Informática & Capacitación laboral EC0076, EC0104, EC366.</h2>
-        <img src="./Img/Img01Medium2.png" alt="Imagen de portada">
+        href="./Img/Img01Medium2.png"><img src="./Img/Img01Medium2.png" alt="" style="max-width: 100%;">
+        <!--<img src="./Img/Img01Medium2.png" alt="Imagen de portada">-->
 <!--PARRAFO DE LA BIOGRAFÍA PERSONAL-->
         <br>
         <p class="parrafo">Soy Informático Administrativo, actualmente curso mi 2da. carrera Ing. Gestion de Tecnologías de la Información.</p>
