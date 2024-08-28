@@ -14,7 +14,7 @@
     <body>
 <!--IMAGEN DEL LOGO Y 1ERA FRASE-->
         <h1 class="heading-element" dir="auto"><a target="_black" rel="noopener noreferrer nofollow"
-        href="./Img/Img03 Logo.png"><img src="./Img/Img03 Logo.png" alt="https://MIPAGINA.com"
+        href="./Img/Img04 Logo.png"><img src="./Img/Img04 Logo.png" alt="https://MIPAGINA.com"
                     style="max-width: 100%;"></a> Hola, soy Rafa Sánchez👍🏼
         </h1>
         <h2 class="subtitulo">Informática & Capacitación laboral EC0076, EC0104, EC366.</h2>
