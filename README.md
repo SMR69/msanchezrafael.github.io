@@ -22,7 +22,6 @@
                 href="./Img/Img01Medium3.png"><img src="./Img/Img01Medium3.png" alt="" 
                     style="max-width: 100%;">
         </h1>
-        <!--<img src="./Img/Img01Medium2.png" alt="Imagen de portada">-->
 <!--PARRAFO DE LA BIOGRAFÍA PERSONAL-->
         <br>
         <p class="parrafo">Soy Informático Administrativo, actualmente curso mi 2da. carrera Ing. Gestion de Tecnologías de la Información.</p>
