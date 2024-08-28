@@ -26,7 +26,7 @@
         </h1>
         <h2 class="subtitulo">Informática & Capacitación laboral EC0076, EC0104, EC366.</h2>
         <h1 class="heading-element" dir="auto"><a target="_black" rel="noopener noreferrer nofollow"
-                href="./Img/Img01Medium2.png"><img src="./Img/Img01Medium2.png" alt="" 
+                href="./Img/Img01Medium3.png"><img src="./Img/Img01Medium3.png" alt="" 
                     style="max-width: 100%;">
 >>>>>>> 0b78bcdec35a5f6140223cdb4f2c801c0418813c
         <!--<img src="./Img/Img01Medium2.png" alt="Imagen de portada">-->
