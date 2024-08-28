@@ -49,7 +49,8 @@
         </ul>
 <!--PIE DE PAGINA-->
         <footer>
-            </h2 Sigueme en mis redes sociales</h2>
+        <h2 class="subtitulo">Sígueme en mis redes sociales</h2>    
+        <!--</h2 Sigueme en mis redes sociales</h2>-->
             <ul>
                 <li>Facebook Rsanchez69</li>
                 <li>LinkeId  Rsanchez69</li>
