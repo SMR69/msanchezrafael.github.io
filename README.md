@@ -14,11 +14,18 @@
     <body>
 <!--IMAGEN DEL LOGO Y 1ERA FRASE-->
         <h1 class="heading-element" dir="auto"><a target="_black" rel="noopener noreferrer nofollow"
+<<<<<<< HEAD
         href="./Img/Img04 Logo.png"><img src="./Img/Img04 Logo.png" alt="https://MIPAGINA.com"
                     style="max-width: 100%;"></a> Hola, soy Rafa Sánchez👍🏼
         </h1>
         <h2 class="subtitulo">Informática & Capacitación laboral EC0076, EC0104, EC366.</h2>
 <!--IMAGEN CENTRAL-->
+=======
+                href="./Img/Img04 Logo.png"><img src="./Img/Img04 Logo.png" alt="https://MIPAGINA.com"
+                    style="max-width: 100%;"></a> Hola, soy Rafa Sánchez👍🏼
+        </h1>
+        <h2 class="subtitulo">Informática & Capacitación laboral EC0076, EC0104, EC366.</h2>
+>>>>>>> 0b78bcdec35a5f6140223cdb4f2c801c0418813c
         <img src="./Img/Img01Medium2.png" alt="Imagen de portada">
 <!--PARRAFO DE LA BIOGRAFÍA PERSONAL-->
         <br>
