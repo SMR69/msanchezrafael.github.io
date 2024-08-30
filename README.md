@@ -22,12 +22,12 @@
                     style="max-width: 100%;">
 <!--PARRAFO DE LA BIOGRAFÍA PERSONAL-->
         <!--<br>-->
-        <p class="parrafo">Soy Informático Administrativo, actualmente curso la Ing. Gestión de Tecnologías de la Información.</p>
-        <p class="parrafo">He fundado diversas startups y proyectos educativos, y actualmente me dedico a capacitar a profesionales y 
+        <p class="parrafo"> Soy Informático Administrativo, actualmente curso la Ing. Gestión de Tecnologías de la Información.</p>
+        <p class="parrafo1">He fundado diversas startups y proyectos educativos, y actualmente me dedico a capacitar a profesionales y 
             emprendedores a través de cursos y certificaciones laborales de alta calidad.</p>
-         <p class="parrafo"> Mis cursos te permitirán adquirir las habilidades necesarias para destacar en el mercado laboral y trabajar de forma 
+         <p class="parrafo2"> Mis cursos te permitirán adquirir las habilidades necesarias para destacar en el mercado laboral y trabajar de forma 
              remota.</p>
-        <p class="parrafo">¡Impulsa tu carrera con certificaciones de calidad!"</p>
+        <p class="parrafo3">¡Impulsa tu carrera con certificaciones de calidad!"</p>
         <h2 class="subtitulo">Algunos proyectos</h2>
         <ul>
             <li>Proyecto NIPyi (actual)</li>
