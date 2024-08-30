@@ -9,24 +9,17 @@
     <title>RsanchezDev3</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <h1 class="heading-element" dir="auto"><a target="_black" rel="noopener noreferrer nofollow"
+        href="./Img/Img04 Logo.png"><img src="./Img/Img04 Logo.png" alt="https://MIPAGINA.com"
+        style="max-width: 100%;"></a> Hola, soy Rafa Sánchez👍🏼</h1>
 </head>
-<!--CUERPO-->
     <body>
 <!--IMAGEN DEL LOGO Y 1ERA FRASE-->
-        <h1 class="heading-element" dir="auto"><a target="_black" rel="noopener noreferrer nofollow"
-<!--HEAD-->
-        href="./Img/Img04 Logo.png"><img src="./Img/Img04 Logo.png" alt="https://MIPAGINA.com"
-                    style="max-width: 100%;"></a> Hola, soy Rafa Sánchez👍🏼
-        </h1>
         <h2 class="subtitulo">Informática & Capacitación laboral EC0076, EC0104, EC366.</h2>
 <!--IMAGEN CENTRAL-->
-=======
-       <h2 class="subtitulo">Informática & Capacitación laboral EC0076, EC0104, EC366.</h2>
         <h1 class="heading-element" dir="auto"><a target="_black" rel="noopener noreferrer nofollow"
                 href="./Img/Img01Medium3.png"><img src="./Img/Img01Medium3.png" alt="" 
                     style="max-width: 100%;">
->>>>>>> 0b78bcdec35a5f6140223cdb4f2c801c0418813c
-        <!--<img src="./Img/Img01Medium2.png" alt="Imagen de portada">-->
 <!--PARRAFO DE LA BIOGRAFÍA PERSONAL-->
         <br>
         <p class="parrafo">Soy Informático Administrativo, actualmente curso mi 2.ª carrera Ing. Gestión de Tecnologías de la Información.</p>
