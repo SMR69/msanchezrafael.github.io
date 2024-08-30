@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
 <!--TITULO DE LA WEB-->
-    <!--<title>RsanchezDev3</title>-->
+    <title>RsanchezDev3</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 </head>
@@ -14,17 +14,14 @@
     <body>
 <!--IMAGEN DEL LOGO Y 1ERA FRASE-->
         <h1 class="heading-element" dir="auto"><a target="_black" rel="noopener noreferrer nofollow"
-<<<<<<< HEAD
+<!--HEAD-->
         href="./Img/Img04 Logo.png"><img src="./Img/Img04 Logo.png" alt="https://MIPAGINA.com"
                     style="max-width: 100%;"></a> Hola, soy Rafa Sánchez👍🏼
         </h1>
         <h2 class="subtitulo">Informática & Capacitación laboral EC0076, EC0104, EC366.</h2>
 <!--IMAGEN CENTRAL-->
 =======
-       href="./Img/Img04 Logo.png"><img src="./Img/Img04 Logo.png" alt="https://MIPAGINA.com"
-                    style="max-width: 100%;"></a> Hola, soy Rafa Sánchez👍🏼
-        </h1>
-        <h2 class="subtitulo">Informática & Capacitación laboral EC0076, EC0104, EC366.</h2>
+       <h2 class="subtitulo">Informática & Capacitación laboral EC0076, EC0104, EC366.</h2>
         <h1 class="heading-element" dir="auto"><a target="_black" rel="noopener noreferrer nofollow"
                 href="./Img/Img01Medium3.png"><img src="./Img/Img01Medium3.png" alt="" 
                     style="max-width: 100%;">
