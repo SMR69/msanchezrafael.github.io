@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
 <!--TITULO DE LA WEB-->
-    <title>RsanchezDev3</title>
+    <!--<title>RsanchezDev3</title>-->
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <h1 class="heading-element" dir="auto"><a target="_black" rel="noopener noreferrer nofollow"
