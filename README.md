@@ -21,7 +21,7 @@
         <h2 class="subtitulo">Informática & Capacitación laboral EC0076, EC0104, EC366.</h2>
 <!--IMAGEN CENTRAL-->
 =======
-                href="./Img/Img04 Logo.png"><img src="./Img/Img04 Logo.png" alt="https://MIPAGINA.com"
+       href="./Img/Img04 Logo.png"><img src="./Img/Img04 Logo.png" alt="https://MIPAGINA.com"
                     style="max-width: 100%;"></a> Hola, soy Rafa Sánchez👍🏼
         </h1>
         <h2 class="subtitulo">Informática & Capacitación laboral EC0076, EC0104, EC366.</h2>
