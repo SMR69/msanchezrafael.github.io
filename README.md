@@ -21,12 +21,9 @@
                 href="./Img/Img01Medium3.png"><img src="./Img/Img01Medium3.png" alt="" 
                     style="max-width: 100%;">
 <!--PARRAFO DE LA BIOGRAFÍA PERSONAL-->
-        <!--<br>-->
-        <p class="parrafo"> Soy Informático Administrativo, actualmente curso la Ing. Gestión de Tecnologías de la Información.</p>
-        <p class="parrafo1">He fundado diversas startups y proyectos educativos, y actualmente me dedico a capacitar a profesionales y 
-            emprendedores a través de cursos y certificaciones laborales de alta calidad.</p>
-         <p class="parrafo2"> Mis cursos te permitirán adquirir las habilidades necesarias para destacar en el mercado laboral y trabajar de forma 
-             remota.</p>
+        # Soy Informático Administrativo
+            Actualmente curso la Ing. Gestión de Tecnologías de la Información. He fundado diversas startups y proyectos educativos, y actualmente me                dedico a capacitar a profesionales y emprendedores a través de cursos y certificaciones laborales de alta calidad.
+              Mis cursos te permitirán adquirir las habilidades necesarias para destacar en el mercado laboral y trabajar de forma remota.
         <p class="parrafo3">¡Impulsa tu carrera con certificaciones de calidad!"</p>
         <h2 class="subtitulo">Algunos proyectos</h2>
         <ul>
