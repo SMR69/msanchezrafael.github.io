@@ -24,7 +24,7 @@
             <br>
             <h3>Soy Informático Administrativo</h3>
             <h3>Actualmente curso la Ing. Gestión de Tecnologías de la Información. He fundado diversas startups y proyectos educativos.</h3>
-            <h3>Actualmente me dedico a capacitar a profesionales y emprendedores a través de cursos y certificaciones laborales de alta calidad.</h3>
+            <h3>Hoy en día, me dedico a capacitar a profesionales y emprendedores a través de cursos y certificaciones laborales de alta calidad.</h3>
             <h3>Mis cursos te permitirán adquirir las habilidades necesarias para destacar en el mercado laboral y trabajar de forma remota.</h3>
         <h2>¡Impulsa tu carrera con certificaciones de calidad!"</h2>
             <br>
